@@ -22,4 +22,4 @@
 控件关键点在于处理好tab容器本身滑动的距离和三角下标滑动的距离。
 
 详细见我的CSDN博客：
-[自定义实现带三角下标的TabLayout](http://note.youdao.com/)
+[自定义实现带三角下标的TabLayout](http://blog.csdn.net/qq_27258799/article/details/74556857)
